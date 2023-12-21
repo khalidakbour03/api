@@ -1,5 +1,5 @@
 {
-   "SendTraffic" : false,
+   "SendTraffic" : true,
    "SendTrafficImage" : "https://github.com/YassirXDEV/TEST/blob/main/minecraft_logo_icon_168974.png?raw=true",
    "GameLink" : "https://www.youtube.com/results?search_query=how+to+create+a+json+file+that+redirect+to+another+game+in+unity",
    "GameLink1" : "https://appgallery.huawei.com/#/app/C109447381",
