@@ -1,11 +1,5 @@
-
 {
-  
-    "charh": "no",
-    
-    
-    "buttonImageURL": "",
-    "buttonLink": "https://wdbeeee.shpo"
-    
-    
-  }
+   "SendTraffic" : true,
+   "SendTrafficImage" : "https://github.com/YassirXDEV/TEST/blob/main/minecraft_logo_icon_168974.png?raw=true",
+   "GameLink" : "google.com"
+}
