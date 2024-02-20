@@ -8,10 +8,10 @@
    "SendTrafficImage_Philipines2" : "https://khalidakbour03.github.io/api/PH-Cpa2.png",
    "SendTrafficImage_Mexico1" : "https://khalidakbour03.github.io/api/M-Cpa1.png",
     "SendTrafficImage_Mexico2" : "https://khalidakbour03.github.io/api/M-Cpa2.png",
-    "SendTrafficImage_SaoudiArabia1" : "https://khalidakbour03.github.io/api/s4.png",
-    "SendTrafficImage_SaoudiArabia2" : "https://khalidakbour03.github.io/api/s4.png",
-   "SendTrafficImage_Vietnam1" : "https://khalidakbour03.github.io/api/s4.png",
-    "SendTrafficImage_Vietnam2" : "https://khalidakbour03.github.io/api/s4.png",
+    "SendTrafficImage_SaoudiArabia1" : "https://khalidakbour03.github.io/api/SA-Cpa1.png",
+    "SendTrafficImage_SaoudiArabia2" : "https://khalidakbour03.github.io/api/SA-Cpa2.png",
+   "SendTrafficImage_Vietnam1" : "https://khalidakbour03.github.io/api/V-Cpa1.png",
+    "SendTrafficImage_Vietnam2" : "https://khalidakbour03.github.io/api/V-Cpa2.jpg",
    "GameLink_Russia1" : "https://singingfiles.com/show.php?l=0&u=1887057&id=58533",
    "GameLink_Russia2" : "https://singingfiles.com/show.php?l=0&u=1887057&id=60902",
    "GameLink1" : "https://appgallery.huawei.com/#/app/C109447381",
@@ -23,6 +23,10 @@
     "description_Philipines2": "Get Your iPhone 15 Now!"
        "description_Mexico1": "¡Consigue tus Airpods Max ahora!"
     "description_Mexico2": "¡Adquiere tus productos Coca-Cola ahora!"
+"description_SaoudiArabia1": "قم بتنزيل المحتوى الخاص بك الآن!"
+   "description_SaoudiArabia2": "شاهد مقاطع فيديو بنطاق 360 درجة!"
+      "description_Vietnam1": "Xem liệu dữ liệu của bạn có nhu cầu được bảo vệ hay không!"
+      "description_Vietnam2": "Nhận Phần thưởng khi Thực hiện Khảo sát Tài chính!"
 
 
 }
