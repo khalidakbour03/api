@@ -1,6 +1,5 @@
 {
-   "SendTraffic" : false,
-   "charh": "yes",
+   "SendTraffic" : true,
    "SendTrafficImage" : "https://khalidakbour03.github.io/api/f9ad1184da78afc06a6900c0276369e4%20(2).png",
    "SendTrafficImage_Belarus1" : "https://khalidakbour03.github.io/api/B-Cpa1.png",
    "SendTrafficImage_Belarus2" : "https://khalidakbour03.github.io/api/B-Cpa2.jpg",
