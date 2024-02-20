@@ -6,8 +6,8 @@
    "SendTrafficImage_Belarus2" : "https://khalidakbour03.github.io/api/B-Cpa2.jpg",
    "SendTrafficImage_Philipines1" : "https://khalidakbour03.github.io/api/PH-Cpa1.png",
    "SendTrafficImage_Philipines2" : "https://khalidakbour03.github.io/api/PH-Cpa2.png",
-   "SendTrafficImage_Mexico1" : "https://khalidakbour03.github.io/api/s4.png",
-    "SendTrafficImage_Mexico2" : "https://khalidakbour03.github.io/api/s4.png",
+   "SendTrafficImage_Mexico1" : "https://khalidakbour03.github.io/api/M-Cpa1.png",
+    "SendTrafficImage_Mexico2" : "https://khalidakbour03.github.io/api/M-Cpa2.png",
     "SendTrafficImage_SaoudiArabia1" : "https://khalidakbour03.github.io/api/s4.png",
     "SendTrafficImage_SaoudiArabia2" : "https://khalidakbour03.github.io/api/s4.png",
    "SendTrafficImage_Vietnam1" : "https://khalidakbour03.github.io/api/s4.png",
@@ -21,5 +21,8 @@
     "description_Belarus2": "Получите вознаграждение за участие в финансовом опросе!"
        "description_Philipines1": "Access the Best Games Now!"
     "description_Philipines2": "Get Your iPhone 15 Now!"
+       "description_Mexico1": "¡Consigue tus Airpods Max ahora!"
+    "description_Mexico2": "¡Adquiere tus productos Coca-Cola ahora!"
+
 
 }
